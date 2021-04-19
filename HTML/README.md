@@ -7,6 +7,7 @@
 [https://icons8.com/](https://icons8.com/)<br>
 [https://shape.so/](https://shape.so/)<br>
 [https://www.lottieflow.com/](https://www.lottieflow.com/)<br>
+[https://fontawesome.com/](https://fontawesome.com/)<br>
 
 ## Regex
 [https://regex101.com/](https://regex101.com/)<br>
